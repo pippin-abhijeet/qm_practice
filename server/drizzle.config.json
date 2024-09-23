@@ -1,0 +1,9 @@
+{
+    "schema": "./schema.ts",
+    "out": "./migrations",
+    "driver": "pg",
+    "dbCredentials": {
+      "connectionString": "postgres://postgres:mypassword@localhost:5000/mydb"
+    }
+  }
+  
